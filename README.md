@@ -8,3 +8,4 @@ Skilled in creating basic automation workflows using tools like Zapier, Trello, 
 ![image alt](https://github.com/regalpogi/Basic-Workflows-Automation/blob/77fc07f6e0ad71049e35c4ee747f5db37c66fef3/Screenshot%20(723).png)
 ![image alt](https://github.com/regalpogi/Basic-Workflows-Automation/blob/58b69fdba4f95e604a831fb28c0d8bd58b3a2995/Screenshot%20(725).png)
 ![image alt](https://github.com/regalpogi/Basic-Workflows-Automation/blob/9c4426c38d2e3f6e4df431d67e6ad009228f000f/Screenshot%20(727).png)
+![image alt](https://github.com/regalpogi/Basic-Workflows-Automation/blob/1cfb014e7abc4c45a174f5a78531f5ce78fea9ad/Screenshot%20(726).png)
