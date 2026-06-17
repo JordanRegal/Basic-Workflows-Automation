@@ -1,4 +1,4 @@
-# Basic-Workflows-Automation
+# Zapier Workflows-Automation
 Skilled in creating basic automation workflows using tools like Zapier, Trello, and Notion repetitive tasks, improve productivity, and enhance team collaboration. Experienced in setting up automated processes such as task creation, email notifications, data organization, and workflow management to save time and increase efficiency.
 ![image alt](https://github.com/JordanRegal/Basic-Workflows-Automation/blob/ff768278509b12cf0c921ba28b56c887c96c6758/Screenshot%20(741).png)
 ![image alt](https://github.com/JordanRegal/Basic-Workflows-Automation/blob/ad39a01d028d4ee9f0acd272f54c37c086b66259/Screenshot%20(734).png)
